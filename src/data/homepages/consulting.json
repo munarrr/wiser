@@ -1,31 +1,7 @@
 {
     "title": "consulting-home",
     "content": [
-        {
-            "id": "consulting-hero",
-            "section": "hero-section",
-            "images": [
-                {
-                    "src": "../images/slider/banner-06.png"
-                }
-            ],
-            "headings": [
-                {
-                    "content": "Al-Amin Bali"
-                },
-                {
-                    "content": "Hi, I’m a"
-                }
-            ],
-            "animated_texts": ["Lawyer.", "Consulter", "Developer."],
-            "buttons": [
-                {
-                    "id": 1,
-                    "path": "#contacts",
-                    "content": "CONTACT ME"
-                }
-            ]
-        },
+       
         {
             "id": "consulting-services",
             "section": "service-section",
