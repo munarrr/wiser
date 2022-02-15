@@ -4,7 +4,6 @@ import { graphql } from "gatsby";
 import { normalizedData } from "@utils";
 import Layout from "@layout";
 import Header from "@layout/header/layout-02";
-import Footer from "@layout/footer/layout-01";
 import ServiceArea from "@containers/service/layout-04";
 import PortfolioArea from "@containers/portfolio/layout-01";
 import ResumeArea from "@containers/resume/layout-01";
@@ -44,10 +43,7 @@ const IndexConsultingPage = ({ data }) => {
                         getform_url: data.site.siteMetadata?.getform_url,
                     }}
                 />
-                <Footer
-                    data={{ ...data.footer }}
-                    className="section-separator"
-                />
+               
             </main>
         </Layout>
     );

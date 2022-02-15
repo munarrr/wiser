@@ -13,21 +13,21 @@
                 {
                     "id": 1,
                     "title": "Front-end",
-                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "description": "Создаю реактивных компонентов, написание скриптов Могу сделать проекты от дизайна до конечной точки",
                     "icon": "Menu",
                     "path": "#!"
                 },
                 {
                     "id": 2,
-                    "title": "",
-                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+                    "title": "Обучение",
+                    "description": "Любой дурак можеть писать код,понятный компьютеру.Хороший программист пишет код,понятный человеку и для этого хочу учить всю жизнь",
                     "icon": "BookOpen",
                     "path": "#!"
                 },
                 {
                     "id": 3,
-                    "title": "App Development",
-                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "title": "Дизайн",
+                    "description": "А еще  есть  и немного опыт в дизайне если нежен какй-то доработка или дизайн-система(ui-kit) то могу с легкостью справить с этим",
                     "icon": "Tv",
                     "path": "#!"
                 }
@@ -38,7 +38,7 @@
             "section": "portfolio-section",
             "section_title": {
                 "title": "Мои работы",
-                "subtitle": "Visit my portfolio and keep your feedback"
+                "subtitle": ""
             },
             "items": [
                 {
@@ -98,7 +98,7 @@
                             "src": "../images/portfolio/BGTK.png"
                         }
                     ],
-                    "path": "https://php-testbgtk.herokuapp.com/",
+                    "path": "https://bgtk.netlify.app/",
                     "likeCount": 630
                 }
             ]
@@ -412,7 +412,7 @@
                         },
                         {
                             "id": 2,
-                            "title": "Smiths Marth",
+                            "title": "Next js",
                             "path": "#!",
                             "images": [
                                 {
@@ -422,7 +422,7 @@
                         },
                         {
                             "id": 3,
-                            "title": "Add Dev",
+                            "title": "React",
                             "path": "#!",
                             "images": [
                                 {
@@ -432,7 +432,7 @@
                         },
                         {
                             "id": 4,
-                            "title": "John Due",
+                            "title": "Vue",
                             "path": "#!",
                             "images": [
                                 {
@@ -442,7 +442,7 @@
                         },
                         {
                             "id": 5,
-                            "title": "John Due",
+                            "title": "Css",
                             "path": "#!",
                             "images": [
                                 {
@@ -524,7 +524,7 @@
                 },
                 {
                     "id": "clinet-design",
-                    "inner_title": "Product Design",
+                    "inner_title": "Next js",
                     "items": [
                         {
                             "id": 1,
@@ -650,7 +650,7 @@
                 },
                 {
                     "id": "clinet-wp",
-                    "inner_title": "Wordpress",
+                    "inner_title": "React",
                     "items": [
                         {
                             "id": 1,
@@ -776,7 +776,7 @@
                 },
                 {
                     "id": "clinet-to-react",
-                    "inner_title": "HTML to React",
+                    "inner_title": "Css",
                     "items": [
                         {
                             "id": 1,
@@ -902,7 +902,7 @@
                 },
                 {
                     "id": "clinet-to-laravel",
-                    "inner_title": "React To Laravel",
+                    "inner_title": "Wordpress",
                     "items": [
                         {
                             "id": 1,
@@ -1028,7 +1028,7 @@
                 },
                 {
                     "id": "clinet-python",
-                    "inner_title": "Python",
+                    "inner_title": "Vue",
                     "items": [
                         {
                             "id": 1,
