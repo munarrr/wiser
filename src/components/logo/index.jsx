@@ -4,13 +4,13 @@ import PropTypes from "prop-types";
 import cn from "classnames";
 import Image from "@ui/image";
 import { ImageType } from "@utils/types";
-import Avatar from '../../data/images/logo/logo-06.png'
+import Avatar from '../../data/images/logo/logo.png'
 
 const Logo = ({ className }) => {
     return (
         <div className={cn("logo", className)}>
             <Link to="/">
-                    <Image src='https://avatars.githubusercontent.com/u/76680272?v=4' alt="logo" />
+                    <Image src={Avatar} alt="logo" />
             </Link>
         </div>
     );

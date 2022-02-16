@@ -5,7 +5,7 @@ module.exports = {
         description: "Мунарбек Карымшаков резюме",
         author: "Мунарбек",
         siteLanguage: "кг",
-        image: "https://avatars.githubusercontent.com/u/76680272?v=4",
+        image: "src/data/images/logo/logo.png",
         titleTemplate: "Munar",
         socials: [
             {
@@ -89,7 +89,7 @@ module.exports = {
                 display: "standalone",
                 scope: "/",
                 start_url: "/",
-                icon: "https://avatars.githubusercontent.com/u/76680272?v=4",
+                icon: "src/assets/images/favicon.png",
             },
         },
     ],
