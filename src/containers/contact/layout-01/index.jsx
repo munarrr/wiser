@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import SectionTitle from "@components/section-title";
-import ContactForm from "@components/contact-form";
 import ContactInfoCard from "@components/contact-info-card";
 import {
     SectionTitleType,
@@ -28,23 +27,16 @@ const ContactArea = ({ data, id }) => {
                         )}
                     </div>
                 </div>
-                <div className="row mt--50 mt_md--40 mt_sm--40 mt-contact-sm">
-                    <div className="col-lg-5">
+                <div className="row mt--50 mt_md--40 mt_sm--40 ">
+                    <div className="col-lg-10 text-center">
                         <ContactInfoCard
-                            image={data?.images?.[0]}
                             title={data?.headings?.[0].content}
                             subtitle={data?.headings?.[1].content}
                             desc={data?.texts?.[0].content}
                             phone={data?.phone}
                             email={data?.email}
-                            socials={data?.socials}
+                          
                         />
-                    </div>
-                    <div
-                        data-aos-delay="600"
-                        className="col-lg-7 contact-input"
-                    >
-                        <ContactForm url={data.getform_url} />
                     </div>
                 </div>
             </div>

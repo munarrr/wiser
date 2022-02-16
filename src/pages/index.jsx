@@ -17,7 +17,7 @@ import ExperienceArea from "@containers/experience/layout-01";
 const IndexConsultingPage = ({ data }) => {
     const content = normalizedData(data?.homePage?.content || []);
     return (
-        <Layout pageTitle="Home Consulting">
+        <Layout>
             <Header
                 data={{
                     ...data.header,

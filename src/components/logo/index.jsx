@@ -10,7 +10,7 @@ const Logo = ({ className }) => {
     return (
         <div className={cn("logo", className)}>
             <Link to="/">
-                    <Image src={Avatar} alt="logo" />
+                    <Image src='https://avatars.githubusercontent.com/u/76680272?v=4' alt="logo" />
             </Link>
         </div>
     );

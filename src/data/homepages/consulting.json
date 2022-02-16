@@ -100,6 +100,26 @@
                     ],
                     "path": "https://bgtk.netlify.app/",
                     "likeCount": 630
+                },
+                 {
+                    "id": 4,
+                    "title": "Logo design creativity & Application",
+                    "category": "Photoshop",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/agency.png"
+                        }
+                    ],
+                    "path": "https://bgtk.netlify.app/",
+                    "likeCount": 630
                 }
             ]
         },
@@ -119,60 +139,38 @@
                 {
                     "id": "education-section-left",
                     "section_title": {
-                        "title": "Education Quality",
-                        "subtitle": "2007 - 2010"
+                        "title": "Образование",
+                        "subtitle": "2010 - 2022"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Школа №64",
+                            "subtitle": "Среднее образование(2010-2019)",
+                            "description": "Я учил в школе до 9-класса и после поступил в коллдедж"
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
-                            "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "БГТК - колледж",
+                            "subtitle": "Прикладная информатика(2019 - 2020)",
+                            "rating": "диплом не имеется",
+                            "description": "Базовые знание о веб архитектуре и технические разбияние на части комьютера"
                         }
                     ]
                 },
                 {
                     "id": "education-section-right",
                     "section_title": {
-                        "title": "Job Experience",
-                        "subtitle": "2007 - 2010"
+                        "title": "",
+                        "subtitle": ""
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
-                            "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
-                            "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
-                            "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Ogogo-Academy",
+                            "subtitle": "Front-end dev (2020 - 2021)",
+                            "rating": "Сертификат",
+                            "description": "Базовые знание о JS и построение реактивных веб приложений"
                         }
                     ]
                 }
@@ -186,68 +184,78 @@
                 {
                     "id": "consulting-skill-left",
                     "section_title": {
-                        "title": "Design Skill",
-                        "subtitle": "Features"
+                        "title": "Front-end",
+                        "subtitle": ""
                     },
-                    "items": [
+                                        "items": [
                         {
                             "id": 1,
-                            "title": "PHOTOSHOT",
-                            "value": 85
+                            "title": "Typescript",
+                            "value": 20
                         },
                         {
                             "id": 2,
-                            "title": "FIGMA",
-                            "value": 95
+                            "title": "Javascript",
+                            "value": 30
                         },
                         {
                             "id": 3,
-                            "title": "ADOBE XD",
-                            "value": 60
+                            "title": "Next js",
+                            "value": 25
                         },
                         {
                             "id": 4,
-                            "title": "ADOBE ILLUSTRATOR",
-                            "value": 70
+                            "title": "React",
+                            "value": 20
                         },
                         {
                             "id": 5,
-                            "title": "DESIGN",
-                            "value": 90
+                            "title": "Vue",
+                            "value": 15
+                        },
+                         {
+                            "id": 6,
+                            "title": "HTML/CSS",
+                            "value": 30
                         }
                     ]
                 },
                 {
                     "id": "consulting-skill-right",
                     "section_title": {
-                        "title": "Design Skill",
-                        "subtitle": "Features"
+                        "title": "Tools",
+                        "subtitle": ""
                     },
-                    "items": [
+                     "items": [
                         {
                             "id": 1,
-                            "title": "HTML",
-                            "value": 85
+                            "title": "Docker",
+                            "value": 16
                         },
                         {
                             "id": 2,
-                            "title": "CSS",
-                            "value": 80
+                            "title": "FIGMA",
+                            "value": 30
                         },
                         {
                             "id": 3,
-                            "title": "JAVASCRIPT",
-                            "value": 90
+                            "title": "Wordpress",
+                            "value": 40
                         },
                         {
                             "id": 4,
-                            "title": "SOFTWARE",
-                            "value": 75
+                            "title": "ADS",
+                            "value": 20
                         },
-                        {
-                            "id": 5,
-                            "title": "PLUGIN",
-                            "value": 70
+                          {
+                            "id": 4,
+                            "title": "CI/CD",
+                            "value": 17
+                        },
+                          {
+                            "id": 4,
+                            "title": "TDD/BDD",
+                            "value": 12
                         }
                     ]
                 }
@@ -261,60 +269,30 @@
                 {
                     "id": "consulting-experience-left",
                     "section_title": {
-                        "title": "Education Quality",
-                        "subtitle": "2007 - 2010"
+                        "title": "Опыт работы",
+                        "subtitle": "2020 - 2022"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Asystem.kg",
+                            "subtitle": "Front-end & Wordpress dev(2021.03 - 2021.08)",
+                            "rating": "8 мес",
+                            "description": "Участие в проектировании архитектуры и техническое развитие front-end в команде разработчиков.Умение быстро настроит темы и плагины.(методология:SCRUM)"
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
-                            "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "MNK company",
+                            "subtitle": "Front-end dev(2021.09 - 2022)",
+                            "rating": "сегодня",
+                            "description": "Верстка и программирование интерфейса новых проектов, доработка текущих проектов.Разрабатывать новые функции, ориентированные на клиентовю.Принятие архитектурных решений"
                         },
                         {
                             "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        }
-                    ]
-                },
-                {
-                    "id": "consulting-section-right",
-                    "section_title": {
-                        "title": "Job Experience",
-                        "subtitle": "2007 - 2010"
-                    },
-                    "items": [
-                        {
-                            "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
-                            "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
-                            "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
-                            "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Freelance",
+                            "subtitle": "Front-end & Wordpress & Design(2021.08 - 2021.10)",
+                            "rating": "2 мес",
+                            "description": "Умение общаться с клиентами.Выполнить проекты по срокам.Многозадачность"
                         }
                     ]
                 }
@@ -402,11 +380,11 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "John Due",
+                            "title": "React",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/react.png"
                                 }
                             ]
                         },
@@ -416,107 +394,57 @@
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/next.png"
                                 }
                             ]
                         },
                         {
                             "id": 3,
-                            "title": "React",
+                            "title": "Vue",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/vue.png"
                                 }
                             ]
                         },
                         {
                             "id": 4,
-                            "title": "Vue",
+                            "title": "Lodash",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client4.png"
+                                    "src": "../images/client/png/lodash.png"
                                 }
                             ]
                         },
                         {
                             "id": 5,
-                            "title": "Css",
+                            "title": "Axios",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/axios.png"
                                 }
                             ]
                         },
                         {
                             "id": 6,
-                            "title": "Adon Smith",
+                            "title": "Typescript",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
+                                    "src": "../images/client/png/typescript.png"
                                 }
                             ]
                         },
                         {
                             "id": 7,
-                            "title": "Smitha Mila",
+                            "title": "Nuxt",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client2.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/nuxt.png"
                                 }
                             ]
                         }
@@ -528,121 +456,41 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "John Due",
+                            "title": "Axios",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/axios.png"
                                 }
                             ]
                         },
                         {
                             "id": 2,
-                            "title": "Smiths Marth",
+                            "title": "Typescipt",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 3,
-                            "title": "Add Dev",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client3.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client4.png"
+                                    "src": "../images/client/png/typescript.png"
                                 }
                             ]
                         },
                         {
                             "id": 5,
-                            "title": "John Due",
+                            "title": "Lodash",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/lodash.png"
                                 }
                             ]
                         },
                         {
                             "id": 6,
-                            "title": "Adon Smith",
+                            "title": "React",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 7,
-                            "title": "Smitha Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client2.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/react.png"
                                 }
                             ]
                         }
@@ -654,124 +502,35 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "John Due",
+                            "title": "Typescript",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/typescript.png"
                                 }
                             ]
                         },
                         {
                             "id": 2,
-                            "title": "Smiths Marth",
+                            "title": "Lodash",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/lodash.png"
                                 }
                             ]
                         },
                         {
                             "id": 3,
-                            "title": "Add Dev",
+                            "title": "Axios",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client4.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 5,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 6,
-                            "title": "Adon Smith",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 7,
-                            "title": "Smitha Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client2.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/axios.png"
                                 }
                             ]
                         }
+                       
                     ]
                 },
                 {
@@ -780,124 +539,35 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "John Due",
+                            "title": "Tailwind css",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/tailwind.png"
                                 }
                             ]
                         },
                         {
                             "id": 2,
-                            "title": "Smiths Marth",
+                            "title": "Bootstrap",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/bootstrap.png"
                                 }
                             ]
                         },
                         {
                             "id": 3,
-                            "title": "Add Dev",
+                            "title": "Sass",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client4.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 5,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 6,
-                            "title": "Adon Smith",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 7,
-                            "title": "Smitha Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client2.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/sass.png"
                                 }
                             ]
                         }
+                       
                     ]
                 },
                 {
@@ -906,124 +576,45 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "John Due",
+                            "title": "BackUp",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/backup.png"
                                 }
                             ]
                         },
                         {
                             "id": 2,
-                            "title": "Smiths Marth",
+                            "title": "Elementor",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/elementor.png"
                                 }
                             ]
                         },
                         {
                             "id": 3,
-                            "title": "Add Dev",
+                            "title": "Vepp",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/vepp.png"
                                 }
                             ]
                         },
                         {
                             "id": 4,
-                            "title": "John Due",
+                            "title": "Web Builder",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client4.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 5,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 6,
-                            "title": "Adon Smith",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 7,
-                            "title": "Smitha Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client2.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/webbuilder.png"
                                 }
                             ]
                         }
+                       
                     ]
                 },
                 {
@@ -1032,124 +623,35 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "John Due",
+                            "title": "Axios",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client1.png"
+                                    "src": "../images/client/png/axios.png"
                                 }
                             ]
                         },
                         {
                             "id": 2,
-                            "title": "Smiths Marth",
+                            "title": "Vuex",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client2.png"
+                                    "src": "../images/client/png/vuex.png"
                                 }
                             ]
                         },
                         {
                             "id": 3,
-                            "title": "Add Dev",
+                            "title": "Nuxt",
                             "path": "#!",
                             "images": [
                                 {
-                                    "src": "../images/client/png/client3.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 4,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client4.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 5,
-                            "title": "John Due",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 6,
-                            "title": "Adon Smith",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 7,
-                            "title": "Smitha Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 8,
-                            "title": "Sultana Mila",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client2.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 9,
-                            "title": "Jannat",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 10,
-                            "title": "Mila Dus",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client5.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 11,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client1.png"
-                                }
-                            ]
-                        },
-                        {
-                            "id": 12,
-                            "title": "Marth Smiths",
-                            "path": "#!",
-                            "images": [
-                                {
-                                    "src": "../images/client/png/client3.png"
+                                    "src": "../images/client/png/nuxt.png"
                                 }
                             ]
                         }
+                       
                     ]
                 }
             ]
@@ -1176,15 +678,15 @@
             ],
             "headings": [
                 {
-                    "content": "Nevine Acotanza"
+                    "content": "Мунарбек Карымшаков"
                 },
                 {
-                    "content": "Chief Operating Officer"
+                    "content": ""
                 }
             ],
             "texts": [
                 {
-                    "content": "I am available for freelance work. Connect with me via and call in to my account."
+                    "content": ""
                 }
             ]
         }
