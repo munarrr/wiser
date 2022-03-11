@@ -47,11 +47,9 @@
                     "category": "front-end",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
-                        },
-                        {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Такой маленький проект для практики в Vue js"
                         }
+                       
                     ],
                     "images": [
                         {
@@ -63,62 +61,36 @@
                 },
                 {
                     "id": 2,
-                    "title": "Mobile app landing design & app maintain",
-                    "category": "Application",
+                    "title": "Medium clone ",
+                    "category": "Front-end",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
-                        },
-                        {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Средний проект для MERN приложении использовал REST  API"
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/dashboard.png"
+                            "src": "../images/portfolio/medium.png"
                         }
                     ],
-                    "path": "https://dashboard-fa211.web.app/dashboards/analytics",
+                    "path": "https://react-post-eight.vercel.app/",
                     "likeCount": 750
                 },
                 {
                     "id": 3,
-                    "title": "Logo design creativity & Application",
-                    "category": "Photoshop",
+                    "title": "React Pizza",
+                    "category": "Front-end",
                     "texts": [
                         {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
-                        },
-                        {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                            "content": "Онлайн пицца как аналог dodo-pizza"
                         }
                     ],
                     "images": [
                         {
-                            "src": "../images/portfolio/BGTK.png"
+                            "src": "../images/portfolio/pizza.png"
                         }
                     ],
-                    "path": "https://bgtk.netlify.app/",
-                    "likeCount": 630
-                },
-                 {
-                    "id": 4,
-                    "title": "Logo design creativity & Application",
-                    "category": "Photoshop",
-                    "texts": [
-                        {
-                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
-                        },
-                        {
-                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
-                        }
-                    ],
-                    "images": [
-                        {
-                            "src": "../images/portfolio/agency.png"
-                        }
-                    ],
-                    "path": "https://bgtk.netlify.app/",
+                    "path": "https://react-pizza-retskey.herokuapp.com/",
                     "likeCount": 630
                 }
             ]
